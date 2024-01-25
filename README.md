@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ProffeComics01 aka Tommaso Lintrami
 - 👀 I’m interested in Game Development, AI, Neurosciences
-- 🌱 I’m currently learning Kolumbus, Angular, Vue, Docker, Kubernetes
-- 💞️ I’m looking to collaborate on some Unity game
+- 🌱 I’m currently learning NExtJS, Angular, Vue, Docker, Kubernetes, LLM, OpenAI, Python
+- 💞️ I’m looking forward to hear you
 - 📫 Drop a line to: tommaso dot lintrami at gmail dot com
 
 <!---
